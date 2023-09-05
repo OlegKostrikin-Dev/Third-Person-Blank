@@ -1,1 +1,17 @@
-{"@class":"Animation","id":{"uuid":"7A717ADC-5264-4974-B3C3-FC32B8D479A1"}}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "7A717ADC-5264-4974-B3C3-FC32B8D479A1"
+  },
+  "AnimationType": "object3D",
+  "OwnerLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "F996450F-4483-40F2-BA55-D4C110911AC3"
+      },
+      "type": 0
+    }
+  },
+  "is_imported": true
+}

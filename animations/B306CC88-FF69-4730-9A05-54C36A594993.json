@@ -1,1 +1,71 @@
-{"@class":"Animation","id":{"uuid":"B306CC88-FF69-4730-9A05-54C36A594993"},"tracks":[{"@class":"FloatBehaviorTrack","accessor":"FloatVariableAccessor","attribute":"animation_playing","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"1"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":0,"transition":false},{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":1000,"transition":true}]},"duration":1000,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "B306CC88-FF69-4730-9A05-54C36A594993"
+  },
+  "tracks": [
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "FloatVariableAccessor",
+      "attribute": "animation_playing",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "1"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 0,
+                "transition": false
+              },
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 1000,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 1000,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    }
+  ]
+}

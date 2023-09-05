@@ -1,1 +1,49 @@
-{"@class":"Animation","id":{"uuid":"46CA78B9-19E6-4BC1-81CA-B02621027494"},"tracks":[{"@class":"FloatBehaviorTrack","accessor":"FloatVariableAccessor","attribute":"animation_playing","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":0,"transition":false}]},"duration":0,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "46CA78B9-19E6-4BC1-81CA-B02621027494"
+  },
+  "tracks": [
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "FloatVariableAccessor",
+      "attribute": "animation_playing",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 0,
+                "transition": false
+              }
+            ]
+          },
+          "duration": 0,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    }
+  ]
+}

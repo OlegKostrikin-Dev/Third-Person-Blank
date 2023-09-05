@@ -1,0 +1,51 @@
+{
+  "@class": "TimelineResourceBase",
+  "id": {
+    "uuid": "FE90E0F6-C194-41F5-A3E1-ABDFDF2BE23F"
+  },
+  "is_imported": false,
+  "loop": false,
+  "priority": 0,
+  "triggers": [
+    {
+      "@class": "StateMachineTrigger",
+      "event": 2,
+      "id": {
+        "uuid": "E13D5FF1-FD0B-49A9-BD52-B7C30F405189"
+      },
+      "isInverted": false,
+      "logicOperation": 0,
+      "objectBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "233DB0FC-A7BB-4050-9606-3DA70EEC747D"
+          },
+          "type": 0
+        }
+      },
+      "ownerScriptId": {
+        "uuid": "FE90E0F6-C194-41F5-A3E1-ABDFDF2BE23F"
+      },
+      "resultType": 0,
+      "stateBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "2B92399E-D637-45A2-A0D6-397462F75D73"
+          },
+          "type": 0
+        }
+      },
+      "triggerName": ""
+    }
+  ],
+  "animations": [
+    {
+      "animation": {
+        "uuid": "9F82FA0C-3D2C-4348-B8F1-6297BBE89E1D"
+      },
+      "isEnabled": true
+    }
+  ]
+}

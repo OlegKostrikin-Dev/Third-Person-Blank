@@ -1,1 +1,17 @@
-{"@class":"Animation","id":{"uuid":"8519DAFF-943A-461F-992D-E03844968EFD"}}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "8519DAFF-943A-461F-992D-E03844968EFD"
+  },
+  "AnimationType": "object3D",
+  "OwnerLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "6C5DD2DD-BF94-4C73-8A07-7EE288270D95"
+      },
+      "type": 0
+    }
+  },
+  "is_imported": true
+}

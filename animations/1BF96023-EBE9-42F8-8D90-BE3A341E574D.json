@@ -1,1 +1,105 @@
-{"@class":"Animation","id":{"uuid":"1BF96023-EBE9-42F8-8D90-BE3A341E574D"},"tracks":[{"@class":"Vector3BehaviorTrack","accessor":"PositionBlendAccessor","clips":[{"@class":"Vector3BehaviorClip","beginTime":0,"behavior":{"@class":"Vector3PlainBehavior","times":[0,833],"values":[0.0029998866375535727,0.04439997300505638,-2.9802322387695313e-08,0.002999971155077219,0.044399991631507874,6.612390279769897e-08]},"duration":833,"script":"Vector3ValueBehaviorClipScript"}],"script":"Vector3BehaviorTrackScript"},{"@class":"QuaternionBehaviorTrack","accessor":"RotationQBlendAccessor","clips":[{"@class":"QuaternionBehaviorClip","beginTime":0,"behavior":{"@class":"QuaternionPlainBehavior","times":[0,833],"values":[-5.587935447692871e-09,5.587935447692871e-09,-8.381902283360887e-09,1.0,1.210719524635806e-08,-3.725290298461914e-09,-8.381904059717726e-09,1.0]},"duration":833,"script":"QuaternionValueBehaviorClipScript"}],"script":"QuaternionBehaviorTrackScript"},{"@class":"Vector3BehaviorTrack","accessor":"ScaleBlendAccessor","clips":[{"@class":"Vector3BehaviorClip","beginTime":0,"behavior":{"@class":"Vector3PlainBehavior","times":[0,833],"values":[1.0,1.0,1.0,0.9999999403953552,0.9999999403953552,1.0]},"duration":833,"script":"Vector3ValueBehaviorClipScript"}],"script":"Vector3BehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "1BF96023-EBE9-42F8-8D90-BE3A341E574D"
+  },
+  "tracks": [
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "PositionBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              0.0029998866375535727,
+              0.04439997300505638,
+              -2.9802322387695312e-08,
+              0.002999971155077219,
+              0.044399991631507874,
+              6.612390279769897e-08
+            ]
+          },
+          "duration": 833,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    },
+    {
+      "@class": "QuaternionBehaviorTrack",
+      "accessor": "RotationQBlendAccessor",
+      "clips": [
+        {
+          "@class": "QuaternionBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "QuaternionPlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              -5.587935447692871e-09,
+              5.587935447692871e-09,
+              -8.381902283360887e-09,
+              1.0,
+              1.210719524635806e-08,
+              -3.725290298461914e-09,
+              -8.381904059717726e-09,
+              1.0
+            ]
+          },
+          "duration": 833,
+          "script": "QuaternionValueBehaviorClipScript"
+        }
+      ],
+      "script": "QuaternionBehaviorTrackScript"
+    },
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "ScaleBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              1.0,
+              1.0,
+              1.0,
+              0.9999999403953552,
+              0.9999999403953552,
+              1.0
+            ]
+          },
+          "duration": 833,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    }
+  ],
+  "AnimationType": "object3D",
+  "OwnerLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "D3509A1F-4D6F-4DB6-8499-104BF90B6599"
+      },
+      "type": 0
+    }
+  },
+  "is_imported": true
+}

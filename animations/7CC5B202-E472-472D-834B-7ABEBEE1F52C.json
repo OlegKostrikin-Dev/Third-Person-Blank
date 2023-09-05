@@ -1,1 +1,163 @@
-{"@class":"Animation","id":{"uuid":"7CC5B202-E472-472D-834B-7ABEBEE1F52C"},"tracks":[{"@class":"FloatBehaviorTrack","accessor":"PositionXBlendAccessor","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":400,"transition":true}]},"duration":400,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"},{"@class":"FloatBehaviorTrack","accessor":"PositionYBlendAccessor","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"1.4"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":400,"transition":true}]},"duration":400,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"},{"@class":"BoolBehaviorTrack","accessor":"Object3DEnabledBlendAccessor","clips":[{"@class":"BoolBehaviorClip","beginTime":0,"behavior":{"@class":"BoolDiscreteBehavior","frames":[{"@class":"BoolKeyFrame","formula":{"@class":"BoolExpressionFormula","expression":"false"},"time":200},{"@class":"BoolKeyFrame","formula":{"@class":"BoolExpressionFormula","expression":"true"},"time":400}]},"duration":400,"script":"BoolValueBehaviorClipScript"}],"script":"BoolBehaviorTrackScript"},{"@class":"FloatBehaviorTrack","accessor":"FloatVariableAccessor","attribute":"animation_playing","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":200,"transition":true}]},"duration":200,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "7CC5B202-E472-472D-834B-7ABEBEE1F52C"
+  },
+  "tracks": [
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "PositionXBlendAccessor",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 400,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 400,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    },
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "PositionYBlendAccessor",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "1.4"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 400,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 400,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    },
+    {
+      "@class": "BoolBehaviorTrack",
+      "accessor": "Object3DEnabledBlendAccessor",
+      "clips": [
+        {
+          "@class": "BoolBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "BoolDiscreteBehavior",
+            "frames": [
+              {
+                "@class": "BoolKeyFrame",
+                "formula": {
+                  "@class": "BoolExpressionFormula",
+                  "expression": "false"
+                },
+                "time": 200
+              },
+              {
+                "@class": "BoolKeyFrame",
+                "formula": {
+                  "@class": "BoolExpressionFormula",
+                  "expression": "true"
+                },
+                "time": 400
+              }
+            ]
+          },
+          "duration": 400,
+          "script": "BoolValueBehaviorClipScript"
+        }
+      ],
+      "script": "BoolBehaviorTrackScript"
+    },
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "FloatVariableAccessor",
+      "attribute": "animation_playing",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 200,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 200,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    }
+  ]
+}

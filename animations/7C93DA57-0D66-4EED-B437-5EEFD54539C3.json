@@ -1,1 +1,105 @@
-{"@class":"Animation","id":{"uuid":"7C93DA57-0D66-4EED-B437-5EEFD54539C3"},"tracks":[{"@class":"Vector3BehaviorTrack","accessor":"PositionBlendAccessor","clips":[{"@class":"Vector3BehaviorClip","beginTime":0,"behavior":{"@class":"Vector3PlainBehavior","times":[0,833],"values":[-7.450580596923828e-08,0.03370004519820213,2.9802322387695313e-08,-9.685754776000977e-08,0.03370003402233124,-3.725290298461914e-09]},"duration":833,"script":"Vector3ValueBehaviorClipScript"}],"script":"Vector3BehaviorTrackScript"},{"@class":"QuaternionBehaviorTrack","accessor":"RotationQBlendAccessor","clips":[{"@class":"QuaternionBehaviorClip","beginTime":0,"behavior":{"@class":"QuaternionPlainBehavior","times":[0,833],"values":[0.19280357658863068,-8.352349567530837e-08,-7.593049744514246e-09,0.9812374114990234,0.19280359148979187,-8.35235240970178e-08,-3.796523095900284e-09,0.9812373518943787]},"duration":833,"script":"QuaternionValueBehaviorClipScript"}],"script":"QuaternionBehaviorTrackScript"},{"@class":"Vector3BehaviorTrack","accessor":"ScaleBlendAccessor","clips":[{"@class":"Vector3BehaviorClip","beginTime":0,"behavior":{"@class":"Vector3PlainBehavior","times":[0,833],"values":[1.0,0.9999999403953552,0.9999999403953552,0.9999999403953552,1.0,0.9999998807907104]},"duration":833,"script":"Vector3ValueBehaviorClipScript"}],"script":"Vector3BehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "7C93DA57-0D66-4EED-B437-5EEFD54539C3"
+  },
+  "tracks": [
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "PositionBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              -7.450580596923828e-08,
+              0.03370004519820213,
+              2.9802322387695312e-08,
+              -9.685754776000977e-08,
+              0.03370003402233124,
+              -3.725290298461914e-09
+            ]
+          },
+          "duration": 833,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    },
+    {
+      "@class": "QuaternionBehaviorTrack",
+      "accessor": "RotationQBlendAccessor",
+      "clips": [
+        {
+          "@class": "QuaternionBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "QuaternionPlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              0.19280357658863068,
+              -8.352349567530837e-08,
+              -7.593049744514246e-09,
+              0.9812374114990234,
+              0.19280359148979187,
+              -8.35235240970178e-08,
+              -3.796523095900284e-09,
+              0.9812373518943787
+            ]
+          },
+          "duration": 833,
+          "script": "QuaternionValueBehaviorClipScript"
+        }
+      ],
+      "script": "QuaternionBehaviorTrackScript"
+    },
+    {
+      "@class": "Vector3BehaviorTrack",
+      "accessor": "ScaleBlendAccessor",
+      "clips": [
+        {
+          "@class": "Vector3BehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "Vector3PlainBehavior",
+            "times": [
+              0,
+              833
+            ],
+            "values": [
+              1.0,
+              0.9999999403953552,
+              0.9999999403953552,
+              0.9999999403953552,
+              1.0,
+              0.9999998807907104
+            ]
+          },
+          "duration": 833,
+          "script": "Vector3ValueBehaviorClipScript"
+        }
+      ],
+      "script": "Vector3BehaviorTrackScript"
+    }
+  ],
+  "AnimationType": "object3D",
+  "OwnerLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "10E40614-E2D6-46C4-8143-4670970B3737"
+      },
+      "type": 0
+    }
+  },
+  "is_imported": true
+}

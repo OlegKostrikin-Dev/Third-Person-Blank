@@ -1,0 +1,106 @@
+{
+  "@class": "TimelineResourceBase",
+  "id": {
+    "uuid": "A95D9EEF-C52A-4393-ACA9-99AF057DB1D4"
+  },
+  "is_imported": false,
+  "loop": true,
+  "priority": 0,
+  "triggers": [
+    {
+      "@class": "StateMachineTrigger",
+      "event": 3,
+      "id": {
+        "uuid": "88172367-659B-480C-A68F-1E986B923990"
+      },
+      "isInverted": false,
+      "logicOperation": 0,
+      "objectBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "F4FB7C70-4DD8-4081-90D7-97A1FBF94C21"
+          },
+          "type": 0
+        }
+      },
+      "ownerScriptId": {
+        "uuid": "A95D9EEF-C52A-4393-ACA9-99AF057DB1D4"
+      },
+      "resultType": 0,
+      "stateBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "30C3E8CE-8A91-4D69-B8AC-CE671596ABC1"
+          },
+          "type": 0
+        }
+      },
+      "triggerName": ""
+    },
+    {
+      "@class": "StateMachineTrigger",
+      "event": 3,
+      "id": {
+        "uuid": "2B87122F-40FB-486C-81BC-B85A3220F380"
+      },
+      "isInverted": false,
+      "logicOperation": 1,
+      "objectBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "8821AEAC-CFB2-4CF8-95DD-87C4721C83A0"
+          },
+          "type": 0
+        }
+      },
+      "ownerScriptId": {
+        "uuid": "A95D9EEF-C52A-4393-ACA9-99AF057DB1D4"
+      },
+      "resultType": 0,
+      "stateBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "7A126EC1-B225-4A65-85ED-0313141D7581"
+          },
+          "type": 0
+        }
+      },
+      "triggerName": ""
+    },
+    {
+      "@class": "NetAuthorityTrigger",
+      "eventType": 3,
+      "id": {
+        "uuid": "06074805-B83D-47C1-BF19-B4C52516649F"
+      },
+      "isInverted": false,
+      "logicOperation": 1,
+      "objectBindingLink": {
+        "@class": "BindingLink",
+        "target": {
+          "id": {
+            "uuid": "552DE37D-DB9A-43BA-95C2-4BD4E05E47A0"
+          },
+          "type": 0
+        }
+      },
+      "ownerScriptId": {
+        "uuid": "A95D9EEF-C52A-4393-ACA9-99AF057DB1D4"
+      },
+      "resultType": 0,
+      "triggerName": ""
+    }
+  ],
+  "animations": [
+    {
+      "animation": {
+        "uuid": "98D03402-995D-4625-ADA8-6066FA4F241F"
+      },
+      "isEnabled": true
+    }
+  ]
+}

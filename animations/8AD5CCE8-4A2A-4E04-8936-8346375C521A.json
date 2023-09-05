@@ -1,1 +1,45 @@
-{"@class":"Animation","id":{"uuid":"8AD5CCE8-4A2A-4E04-8936-8346375C521A"},"tracks":[{"@class":"BoolBehaviorTrack","accessor":"Object3DEnabledBlendAccessor","clips":[{"@class":"BoolBehaviorClip","beginTime":0,"behavior":{"@class":"BoolDiscreteBehavior","frames":[{"@class":"BoolKeyFrame","formula":{"@class":"BoolExpressionFormula","expression":"false"},"time":0}]},"duration":0,"script":"BoolValueBehaviorClipScript"}],"script":"BoolBehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "8AD5CCE8-4A2A-4E04-8936-8346375C521A"
+  },
+  "tracks": [
+    {
+      "@class": "BoolBehaviorTrack",
+      "accessor": "Object3DEnabledBlendAccessor",
+      "clips": [
+        {
+          "@class": "BoolBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "BoolDiscreteBehavior",
+            "frames": [
+              {
+                "@class": "BoolKeyFrame",
+                "formula": {
+                  "@class": "BoolExpressionFormula",
+                  "expression": "false"
+                },
+                "time": 0
+              }
+            ]
+          },
+          "duration": 0,
+          "script": "BoolValueBehaviorClipScript"
+        }
+      ],
+      "script": "BoolBehaviorTrackScript"
+    }
+  ],
+  "AnimationType": "object3D",
+  "OwnerLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "64885EA2-8945-46EA-B09A-309F0E790E4B"
+      },
+      "type": 0
+    }
+  },
+  "is_imported": false
+}

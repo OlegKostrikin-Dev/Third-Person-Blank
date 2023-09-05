@@ -1,0 +1,306 @@
+{
+  "@class": "TimelineResourceBase",
+  "id": {
+    "uuid": "F78DC687-3587-4359-BE1B-9A9E919F6EC9"
+  },
+  "is_imported": true,
+  "loop": false,
+  "priority": 0,
+  "triggers": [],
+  "animations": [
+    {
+      "animation": {
+        "uuid": "2EC01752-560F-4B49-83CE-4E534C36621B"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "F79CDBBC-8BDD-44A0-96B8-980D88DA1976"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "70E02EE6-75FB-4F31-9679-3F13C8C00659"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "E3A8633F-02D0-404B-86E0-79EA6D17AD0C"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "5C6A603D-0E99-4D68-9290-5997CF2DE074"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "931B6F95-CA07-4772-96CF-E0EE2C1DEB51"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "4AFA138A-F9C7-4639-BA20-88695BC5C4BB"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "F9514757-4821-4917-8B55-415F75A59712"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "0F942339-5140-4194-AA00-6BE92F3A7BFE"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "EBB10700-C637-4FFD-B4AA-0DDD6E1FE0F1"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "A9564386-E919-4D3B-AE00-7BACDB297774"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "07B1A18A-5FEF-45C6-B8BF-0378983A5F5D"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "F34A6DDC-0BBC-45AF-B936-C036B634023D"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "1007A8EF-6981-4FED-A88D-797D4AC9CEA5"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "D3340679-77B0-4C79-977F-2A14794061DA"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "9F54B31B-5405-4805-B795-203A99C9D99F"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "162247FF-FB8F-4CF9-A749-E118CD874E33"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "85F9D5C3-8329-4C69-9425-21B99BFD7904"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "0C19CB20-39C7-4B0D-96F5-EB43EA152B4B"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "B72B02F3-A97D-4B37-9AAE-51D54DF2D134"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "8121B93F-F17A-4C6F-94B2-4F2B06C86AA7"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "FC7FCF48-EEBA-451B-8BCE-0CD1D7F490AB"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "1C25FD74-3E79-4169-B8C5-B75E0CF2CB8A"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "D0EA0BF8-5F32-4D53-AD27-F27B393AE7DC"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "E20907B7-85D8-4A46-AB25-B862A4AAB7AC"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "C47EA79C-7897-45DB-B728-9795057782B6"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "466C8911-976A-42C4-A7C1-AAF72D625CE3"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "3D812C2C-647A-45BD-B4FF-C4E3BC61515A"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "2FE0074A-8497-41DC-89CF-67DBCB9B2AB4"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "89D25AC9-C14D-4E8D-91D7-8BDD3C042588"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "565F834B-F71F-42E2-B529-C0F548A460FB"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "BE32757B-46AC-42B1-86C2-05B06ED2A3A4"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "88E30294-BF61-421A-AD8A-B3DAF3155C61"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "CC781BED-2FCF-4819-A316-D96519707566"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "0B2D6158-15E5-4787-BFC2-23E439DDA2B6"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "DF0ACBDB-8CCE-4147-8EE3-06D3EFFA7C37"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "7AC10586-914C-4B7A-9666-B242D964EEE8"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "0FF3A070-FDB3-4D8C-9A46-A0393CB94B15"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "ED12BA44-D527-471C-953C-FB5FFC335325"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "44844AF6-B68D-4CCA-A63D-7024FF3132C1"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "F742CD1A-4709-43BF-849F-5EF7EB096A8D"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "3B3C562A-D9B3-4E79-8707-02B4EF1B2776"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "D33BA665-4344-4F36-BBE4-845BD20A9822"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "BE8F9DC9-C9AD-44B1-A84C-C5CB65F1E8C6"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "ABCE0EA1-EA63-4278-BC7B-1C467D06C65D"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "E2CD8250-DC65-46D3-864E-3C482B70AC48"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "857463EF-C9FD-4635-9B54-908D4E1A5979"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "2D18AA76-4E09-469D-A4CA-C48482C82287"
+      },
+      "isEnabled": true
+    },
+    {
+      "animation": {
+        "uuid": "C624F603-6463-46B9-930D-446DEA37BC2E"
+      },
+      "isEnabled": true
+    }
+  ]
+}

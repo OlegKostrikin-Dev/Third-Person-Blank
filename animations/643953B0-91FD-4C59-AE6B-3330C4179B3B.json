@@ -1,1 +1,128 @@
-{"@class":"Animation","id":{"uuid":"643953B0-91FD-4C59-AE6B-3330C4179B3B"},"tracks":[{"@class":"FloatBehaviorTrack","accessor":"PositionXBlendAccessor","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":0,"transition":true}]},"duration":0,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"},{"@class":"FloatBehaviorTrack","accessor":"PositionYBlendAccessor","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"-0.5"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":0,"transition":true}]},"duration":0,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"},{"@class":"FloatBehaviorTrack","accessor":"PositionZBlendAccessor","clips":[{"@class":"FloatBehaviorClip","beginTime":0,"behavior":{"@class":"FloatBezierBehavior","frames":[{"@class":"FloatBezierKeyFrame","formula":{"@class":"FloatExpressionFormula","expression":"0"},"order":"linear","point1":{"values":[0.0,0.0]},"point2":{"values":[0.0,0.0]},"time":0,"transition":true}]},"duration":0,"script":"FloatValueBehaviorClipScript"}],"script":"FloatBehaviorTrackScript"}]}
+{
+  "@class": "Animation",
+  "id": {
+    "uuid": "643953B0-91FD-4C59-AE6B-3330C4179B3B"
+  },
+  "tracks": [
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "PositionXBlendAccessor",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 0,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 0,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    },
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "PositionYBlendAccessor",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "-0.5"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 0,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 0,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    },
+    {
+      "@class": "FloatBehaviorTrack",
+      "accessor": "PositionZBlendAccessor",
+      "clips": [
+        {
+          "@class": "FloatBehaviorClip",
+          "beginTime": 0,
+          "behavior": {
+            "@class": "FloatBezierBehavior",
+            "frames": [
+              {
+                "@class": "FloatBezierKeyFrame",
+                "formula": {
+                  "@class": "FloatExpressionFormula",
+                  "expression": "0"
+                },
+                "order": "linear",
+                "point1": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "point2": {
+                  "values": [
+                    0.0,
+                    0.0
+                  ]
+                },
+                "time": 0,
+                "transition": true
+              }
+            ]
+          },
+          "duration": 0,
+          "script": "FloatValueBehaviorClipScript"
+        }
+      ],
+      "script": "FloatBehaviorTrackScript"
+    }
+  ]
+}
