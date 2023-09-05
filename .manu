@@ -1,0 +1,18 @@
+{
+    "Camera/Position/X": 4.543201923370361,
+    "Camera/Position/Y": 3.671145439147949,
+    "Camera/Position/Z": 7.869054794311523,
+    "Camera/Rotation/W": 0.9481790065765381,
+    "Camera/Rotation/X": -0.18430733680725098,
+    "Camera/Rotation/Y": 0.25406381487846375,
+    "Camera/Rotation/Z": 0.04938502609729767,
+    "Camera/Type": 0,
+    "Editor/ValueDraggerStepSize": 10,
+    "SnapTypePosiotion/SnapPreset1": 1,
+    "SnapTypePosiotion/SnapPreset2": 10,
+    "SnapTypePosiotion/SnapPresetSelected": 0,
+    "SnapTypeRotation/SnapPreset1": 45,
+    "SnapTypeRotation/SnapPreset2": 90,
+    "SnapTypeRotation/SnapPresetSelected": 0,
+    "export/projectName": "Third-Person-Blank"
+}
