@@ -17919,12 +17919,6 @@
         "id": {
           "uuid": "C2290EE7-381F-4E73-BCEA-A23ECDCC5D3A"
         }
-      },
-      {
-        "@class": "MainCharacterScriptN",
-        "id": {
-          "uuid": "AB3C7CCC-20FF-487D-A688-CB335576A5A5"
-        }
       }
     ]
   },

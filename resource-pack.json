@@ -20713,5 +20713,21 @@
         }
       }
     ]
+  },
+  "characters": {
+    "@class": "StdResourceMapCharacter",
+    "map": [
+      {
+        "key": {
+          "uuid": "AB3C7CCC-20FF-487D-A688-CB335576A5A5"
+        },
+        "value": {
+          "@class": "Character",
+          "id": {
+            "uuid": "AB3C7CCC-20FF-487D-A688-CB335576A5A5"
+          }
+        }
+      }
+    ]
   }
 }
