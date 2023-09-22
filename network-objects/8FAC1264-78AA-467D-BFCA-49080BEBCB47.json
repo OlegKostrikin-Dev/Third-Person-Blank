@@ -6,14 +6,13 @@
       "type": 0
     }
   },
-  "ClientNumber": 1,
   "NetworkAuthorityStrategy": "SyncWithObject",
   "NetworkLagCompensationType": "LastPrevInterpolation",
   "TargetObjectBindingLink": {
     "@class": "BindingLink",
     "target": {
       "id": {
-        "uuid": "F1822464-0AF4-4D01-AF3F-0DA752A70189"
+        "uuid": "A0AA53FE-32F4-4023-8B0C-1168101ED02F"
       },
       "type": 0
     }

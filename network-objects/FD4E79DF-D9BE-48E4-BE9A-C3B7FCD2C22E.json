@@ -4,12 +4,11 @@
     "@class": "BindingLink",
     "target": {
       "id": {
-        "uuid": "36D14542-9131-47DE-9678-9B2E587A33B1"
+        "uuid": "62E8AF94-CF2C-49CB-A8D6-C7A262B8E8FC"
       },
       "type": 0
     }
   },
-  "ClientNumber": 1,
   "NetworkAuthorityStrategy": "PlayerAlways",
   "NetworkLagCompensationType": "LastPrevInterpolation",
   "TargetObjectBindingLink": {
