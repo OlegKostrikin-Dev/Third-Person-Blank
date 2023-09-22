@@ -1,1 +1,88 @@
-{"@class":"VariousSymbolTable","id":{"uuid":"441F6629-409E-4504-AEFA-5C43B57AA9E1"},"variables":[{"@class":"VariantVariable","id":{"uuid":"ABAC160E-0561-46E4-8DE5-5127433B28AC"},"name":"object__C95EA845_BC44_4DCC_857D_B0257C48D480__animation_playing","type":"float","value":0.0},{"@class":"VariantVariable","id":{"uuid":"82A0327A-9435-4972-94E7-2321E558DF53"},"name":"object__8249EE8F_1B42_44FF_8D0A_47B8AB7F7327__rot_speed","type":"float","value":20.0},{"@class":"VariantVariable","id":{"uuid":"36D14542-9131-47DE-9678-9B2E587A33B1"},"name":"object__F1822464_0AF4_4D01_AF3F_0DA752A70189__ClientNumber","type":"float","value":1.0},{"@class":"VariantVariable","id":{"uuid":"E50B13FA-3898-44C2-BAC9-0B5C6046288A"},"name":"object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__CameraTarget","type":"object","value":{"objectId":{"uuid":"8249EE8F-1B42-44FF-8D0A-47B8AB7F7327"}}},{"@class":"VariantVariable","id":{"uuid":"0EB04CE8-84D2-4DC4-A145-D8F0D29996A3"},"name":"object__F1822464_0AF4_4D01_AF3F_0DA752A70189__CONTROLLED","type":"bool","value":true},{"@class":"VariantVariable","id":{"uuid":"A7F55C29-6AF7-4181-A0E6-BF7549D71D83"},"name":"object__F1822464_0AF4_4D01_AF3F_0DA752A70189__GP_Manager_Obj","type":"object","value":{"objectId":{"uuid":"C9B8776A-C090-45E6-8C10-F902B0C12852"}}},{"@class":"VariantVariable","id":{"uuid":"1C52958F-FF5D-4778-BB0E-64F9A5225CA1"},"name":"object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__MIN_DIST_TO_TARGET","type":"float","value":3.0},{"@class":"VariantVariable","id":{"uuid":"66EDC68F-BBAB-4963-94B4-E68166AE66EC"},"name":"object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__MIN_DELTA_TO_UP","type":"float","value":0.800000011920929}]}
+{
+  "@class": "VariousSymbolTable",
+  "id": {
+    "uuid": "441F6629-409E-4504-AEFA-5C43B57AA9E1"
+  },
+  "variables": [
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "ABAC160E-0561-46E4-8DE5-5127433B28AC"
+      },
+      "name": "object__C95EA845_BC44_4DCC_857D_B0257C48D480__animation_playing",
+      "type": "float",
+      "value": 0.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "82A0327A-9435-4972-94E7-2321E558DF53"
+      },
+      "name": "object__8249EE8F_1B42_44FF_8D0A_47B8AB7F7327__rot_speed",
+      "type": "float",
+      "value": 20.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "36D14542-9131-47DE-9678-9B2E587A33B1"
+      },
+      "name": "object__F1822464_0AF4_4D01_AF3F_0DA752A70189__ClientNumber",
+      "type": "float",
+      "value": 1.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "E50B13FA-3898-44C2-BAC9-0B5C6046288A"
+      },
+      "name": "object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__CameraTarget",
+      "type": "object",
+      "value": {
+        "objectId": {
+          "uuid": "8249EE8F-1B42-44FF-8D0A-47B8AB7F7327"
+        }
+      }
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "0EB04CE8-84D2-4DC4-A145-D8F0D29996A3"
+      },
+      "name": "object__F1822464_0AF4_4D01_AF3F_0DA752A70189__CONTROLLED",
+      "type": "bool",
+      "value": true
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "A7F55C29-6AF7-4181-A0E6-BF7549D71D83"
+      },
+      "name": "object__F1822464_0AF4_4D01_AF3F_0DA752A70189__GP_Manager_Obj",
+      "type": "object",
+      "value": {
+        "objectId": {
+          "uuid": "C9B8776A-C090-45E6-8C10-F902B0C12852"
+        }
+      }
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "1C52958F-FF5D-4778-BB0E-64F9A5225CA1"
+      },
+      "name": "object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__MIN_DIST_TO_TARGET",
+      "type": "float",
+      "value": 3.0
+    },
+    {
+      "@class": "VariantVariable",
+      "id": {
+        "uuid": "66EDC68F-BBAB-4963-94B4-E68166AE66EC"
+      },
+      "name": "object__D8E1D3DE_2BB8_4152_AD73_D8CFD5761AB5__MIN_DELTA_TO_UP",
+      "type": "float",
+      "value": 0.800000011920929
+    }
+  ]
+}

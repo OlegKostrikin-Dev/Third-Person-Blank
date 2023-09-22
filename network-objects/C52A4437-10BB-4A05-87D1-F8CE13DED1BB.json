@@ -1,1 +1,24 @@
-{"@class":"NetworkObject","ClientNumVarBL":{"@class":"BindingLink","target":{"type":0}},"ClientNumber":1,"NetworkAuthorityStrategy":"SyncWithObject","NetworkLagCompensationType":"LastPrevInterpolation","TargetObjectBindingLink":{"@class":"BindingLink","target":{"id":{"uuid":"F1822464-0AF4-4D01-AF3F-0DA752A70189"},"type":0}},"id":{"uuid":"C52A4437-10BB-4A05-87D1-F8CE13DED1BB"}}
+{
+  "@class": "NetworkObject",
+  "ClientNumVarBL": {
+    "@class": "BindingLink",
+    "target": {
+      "type": 0
+    }
+  },
+  "ClientNumber": 1,
+  "NetworkAuthorityStrategy": "SyncWithObject",
+  "NetworkLagCompensationType": "LastPrevInterpolation",
+  "TargetObjectBindingLink": {
+    "@class": "BindingLink",
+    "target": {
+      "id": {
+        "uuid": "F1822464-0AF4-4D01-AF3F-0DA752A70189"
+      },
+      "type": 0
+    }
+  },
+  "id": {
+    "uuid": "C52A4437-10BB-4A05-87D1-F8CE13DED1BB"
+  }
+}
