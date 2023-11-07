@@ -1,17 +1,1 @@
-{
-  "@class": "Animation",
-  "id": {
-    "uuid": "854C0AAC-6B48-445B-979E-792B7A2786CE"
-  },
-  "AnimationType": "object3D",
-  "OwnerLink": {
-    "@class": "BindingLink",
-    "target": {
-      "id": {
-        "uuid": "E37E51B8-0296-4E6C-A27C-C16F173FB9F6"
-      },
-      "type": 0
-    }
-  },
-  "is_imported": true
-}
+{"@class":"Animation","AnimationType":"object3D","OwnerLink":{"@class":"BindingLink","target":{"id":{"uuid":"E37E51B8-0296-4E6C-A27C-C16F173FB9F6"},"type":0}},"id":{"uuid":"854C0AAC-6B48-445B-979E-792B7A2786CE"},"is_imported":true}

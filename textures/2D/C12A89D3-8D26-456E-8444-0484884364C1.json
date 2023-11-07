@@ -1,14 +1,1 @@
-{
-  "@class": "Texture2D",
-  "id": {
-    "uuid": "C12A89D3-8D26-456E-8444-0484884364C1"
-  },
-  "image": {
-    "@class": "DevILImage",
-    "id": {
-      "uuid": "208671EB-F4DC-41C9-8509-FD3C6E8783CC"
-    }
-  },
-  "islightmap": false,
-  "name": ""
-}
+{"@class":"Texture2D","id":{"uuid":"C12A89D3-8D26-456E-8444-0484884364C1"},"image":{"@class":"DevILImage","id":{"uuid":"208671EB-F4DC-41C9-8509-FD3C6E8783CC"}},"islightmap":false,"name":""}
