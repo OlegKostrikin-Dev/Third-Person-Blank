@@ -1,0 +1,15 @@
+{
+  "@class": "Texture2D",
+  "id": {
+    "uuid": "54C6A496-49E6-4F93-A9C7-9D732E28AC7E"
+  },
+  "image": {
+    "@class": "DevILImage",
+    "id": {
+      "uuid": "98CDA4D2-52DC-4F0A-B802-64224246F2C6"
+    }
+  },
+  "islightmap": false,
+  "name": "kloofendal_48d_partly_cloudy_puresky_4k",
+  "textureType": 4
+}
